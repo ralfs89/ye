@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.tiktok{
+    background-color: #fe2c55;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
